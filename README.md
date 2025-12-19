@@ -92,4 +92,5 @@ npx expo start
 
 ## Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous licence des étudiants de GLO 4 a polytech de Douala.
+
